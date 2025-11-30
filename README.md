@@ -218,14 +218,3 @@ Consulte `SYSTEM_DOCUMENTATION.md` para:
 - Extensibilidad del sistema
 - Detalles técnicos
 
-## Versión
-
-1.0 - Versión inicial del sistema
-
-## Autor
-
-Sistema de Gestión de Membresías de Gimnasio
-
----
-
-**Nota**: Esta es una aplicación de demostración educativa. Para uso en producción, se recomienda agregar persistencia de datos, integración con bases de datos y características adicionales de seguridad.
